@@ -14,9 +14,23 @@
    <HeaderView />
    <h3 style="margin-top: 15px">Artistas Information</h3>
      <p>This section presents information about artistas</p>
-   <ul>
+   <ul class="ul">
      <li v-for="a of artistas" :key="a.slug">
-       <NuxtLink :to="{ name: 'artistas-slug', params: { slug: a.slug } }">{{a.name}}</NuxtLink>
+       <div class="card">
+          <div>
+            <img class="card-img" :src="'/images/' + a.image" />
+          </div>
+          <div class="card-text">
+            <h4 class="card-title"><strong> {{ a.name }} </strong></h4>
+            <p class="card-description">
+              <span>Nacionalidad: {{a.nationality}}</span><br>
+              <span>Nacimiento: {{a.birth_year}}</span><br>
+            </p>
+            <NuxtLink :to="{ name: 'artistas-slug', params: { slug: a.slug } }" class="button">
+                Detalles
+            </NuxtLink>
+          </div>
+        </div>
      </li>
    </ul>
    <FooterView />

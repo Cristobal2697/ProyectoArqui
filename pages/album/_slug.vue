@@ -16,10 +16,11 @@
      </div>
      <div class="six columns">
        <h4>{{album.title}}</h4>
-	   by <NuxtLink :to="'/artistas/'+album.artistaId">{{album.artista}}</NuxtLink><br>
-	   Edition: {{album.edition}}; Copyright: {{album.copyright}}; 
-	   Language: {{album.language}}; Pages: {{album.pages}}<br>
-	   published by <NuxtLink :to="'/discograficas/'+album.discograficaId">{{album.discografica}}</NuxtLink><br><br>
+	   Artista: <NuxtLink :to="'/artistas/'+album.artistaId">{{album.artista}}</NuxtLink><br>
+	   
+	   Duración: {{album.duracion}}<br>
+	   Año de publicación: {{album.copyright}} <br>
+	   Publicado por <NuxtLink :to="'/discograficas/'+album.discograficaId">{{album.discografica}}</NuxtLink><br><br>
 	   <b>Description</b><br>
 	    <nuxt-content :document="album" />
 	 </div>

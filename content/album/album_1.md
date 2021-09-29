@@ -1,15 +1,26 @@
 ---
 id: album_1
-title: Operating System Concepts
+title: Can't Buy a Thrill
 edition: 9th
-copyright: 2012
+copyright: Octubre de 1972
 language: ENGLISH
-pages: 976
-artista: Abraham Silberschatz
+duracion: 40:39 minutos
+artista: Steely Dan
 artistaId: artista_1
-discografica: John Wiley & Sons
+discografica: ABC Records
 discograficaId: discografica_1
 image: album/album_1.jpg
 ---
 
-Operating System Concepts, now in its ninth edition, continues to provide a solid theoretical foundation for understanding operating systems. The ninth edition has been thoroughly updated to include contemporary examples of how operating systems function. The text includes content to bridge the gap between concepts and actual implementations. End-of-chapter problems, exercises, review questions, and programming exercises help to further reinforce important concepts.  A new Virtual Machine provides interactive exercises to help engage students with the material.
+- "Do It Again" 5:56
+- "Dirty Work" 3:08
+- "Kings" – 3:45
+- "Midnight Cruiser" – 4:08
+- "Only a Fool Would Say That" – 2:57
+- "Reelin' in the Years" – 4:37
+- "Fire in the Hole" – 3:28
+- "Brooklyn (Owes the Charmer Under Me)" – 4:21
+- "Change of the Guard" – 3:39
+- "Turn That Heartbeat Over Again" – 4:58
+
+

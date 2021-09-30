@@ -1,5 +1,5 @@
 ---
-id: album_10
+id: album_11
 title: Via Brasil
 copyright: Febrero de 1975
 duracion: 61:47 minutos

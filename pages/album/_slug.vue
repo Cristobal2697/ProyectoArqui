@@ -21,7 +21,7 @@
 	   Duración: {{album.duracion}}<br>
 	   Año de publicación: {{album.copyright}} <br>
 	   Publicado por <NuxtLink :to="'/discograficas/'+album.discograficaId">{{album.discografica}}</NuxtLink><br><br>
-	   <b>Description</b><br>
+	   <b>Canciones: </b><br>
 	    <nuxt-content :document="album" />
 	 </div>
 	 <div class="two columns"></div>

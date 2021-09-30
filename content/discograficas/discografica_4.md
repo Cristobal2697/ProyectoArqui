@@ -1,5 +1,5 @@
 ---
-id: discografica_1
+id: discografica_4
 name: Universal
 country: Estados Unidos
 founded: 1934

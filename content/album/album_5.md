@@ -1,15 +1,25 @@
 ---
 id: album_5
-title: Compilers, Principles and Tools
-edition: 2nd
-copyright: 2006
-language: ENGLISH
-pages: 1040
-artista: Alfed V. Aho
-artistaId: artista_3
-discografica: Addison Wesley
+title: Louis Armstrong Plays W.C. Handy
+copyright: Diciembre de 1954
+duracion: 76:37 minutos
+artista: Louis Armstrong
+artistaId: artista_2
+discografica: Columbia
 discograficaId: discografica_3
 image: album/album_5.jpg
 ---
 
-Compilers: Principles, Techniques and Tools, known to professors, students, and developers worldwide as the "Dragon Book," is available in a new edition.  Every chapter has been completely revised to reflect developments in software engineering, programming languages, and computer architecture that have occurred since 1986, when the last edition published.  The authors, recognizing that few readers will ever go on to construct a compiler, retain their focus on the broader set of problems faced in software design and software development.
+
+- "St. Louis Blues" 8:50
+- "Yellow Dog Blues" 4:16
+- "Loveless Love" 4:28
+- "Aunt Hagar's Blues" 4:57
+- "Long Gone (From The Bowlin' Green)" 5:08
+- "The Memphis Blues (Or Mister Crump)" 2:59
+- "Beale Street Blues"  4:56
+- "Ole Miss Blues" 3:25
+- "Chantez Les Bas (Sing 'Em Low)" 4:48
+- "Hesitating Blues" 5:20
+- "Atlanta Blues (Make Me One Pallet on Your Floor)" 4:33
+

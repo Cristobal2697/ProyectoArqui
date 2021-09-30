@@ -1,15 +1,20 @@
 ---
-id: album_1
-title: Operating System Concepts
-edition: 9th
-copyright: 2012
-language: ENGLISH
-pages: 976
-artista: Abraham Silberschatz
-artistaId: artista_1
-discografica: John Wiley & Sons
-discograficaId: discografica_1
-image: album/album_1.jpg
+id: album_7
+title: Brazil With My Soul
+copyright: Octubre de 2005
+duracion: 37:58 minutos
+artista: Tania Maria 
+artistaId: artista_4
+discografica: Universal
+discograficaId: discografica_4
+image: album/album_7.jpg
 ---
 
-Operating System Concepts, now in its ninth edition, continues to provide a solid theoretical foundation for understanding operating systems. The ninth edition has been thoroughly updated to include contemporary examples of how operating systems function. The text includes content to bridge the gap between concepts and actual implementations. End-of-chapter problems, exercises, review questions, and programming exercises help to further reinforce important concepts.  A new Virtual Machine provides interactive exercises to help engage students with the material.
+- "Passarella" 3:55
+- "Pecados Meus" 5:10
+- "Rua 17B" 7:29
+- "Zé" 5:32
+- "Eu Fui A Europa" 4:14
+- "Para Chick" 4:34
+- "Ideias E Ideais" 5:1
+

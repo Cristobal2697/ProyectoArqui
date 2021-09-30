@@ -1,19 +1,19 @@
 ---
-id: album_4
-title: Modern Operating Systems
-edition: 4th
-copyright: 2014
-language: ENGLISH
-pages: 1136
-artista: Andrew S. Tanenbaum
-artistaId: artista_2
-discografica: Pearson Education
-discograficaId: discografica_2
-image: album/album_4.jpg
+id: album_10
+title: The Champ
+copyright: Febrero de 1983
+duracion: 41:47 minutos
+artista: Jimmy Smith
+artistaId: artista_5
+discografica: Blue Note
+discograficaId: discografica_5
+image: album/album_10.jpg
 ---
 
-Modern Operating Systems, Fourth Edition, is intended for introductory courses in Operating Systems in Computer Science, Computer Engineering, and Electrical Engineering programs. It also serves as a useful reference for OS professionals
-
-The widely anticipated revision of this worldwide best-seller incorporates the latest developments in operating systems (OS) technologies. The Fourth Edition includes up-to-date materials on relevant¿OS. Tanenbaum also provides information on current research based on his experience as an operating systems researcher.
-
-Modern Operating Systems, Third Editionwas the recipient of the 2010 McGuffey Longevity Award. The McGuffey Longevity Award recognizes textbooks whose excellence has been demonstrated over time.
+- "The Champ" 7:09
+- "Bayou" 5:56
+- "Deep Purple" 7:45
+- "Moonlight In Vermont" 7:44
+- "Ready 'N Able" 6:30
+- "Turquoise" 1:43
+- "Bubbis" 5:00

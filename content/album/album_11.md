@@ -1,15 +1,22 @@
 ---
-id: album_5
-title: Compilers, Principles and Tools
-edition: 2nd
-copyright: 2006
-language: ENGLISH
-pages: 1040
-artista: Alfed V. Aho
-artistaId: artista_3
-discografica: Addison Wesley
-discograficaId: discografica_3
-image: album/album_5.jpg
+id: album_10
+title: Via Brasil
+copyright: Febrero de 1975
+duracion: 61:47 minutos
+artista: Tania Maria 
+artistaId: artista_4
+discografica: Sunny Side 
+discograficaId: discografica_6
+image: album/album_11.jpg
 ---
 
-Compilers: Principles, Techniques and Tools, known to professors, students, and developers worldwide as the "Dragon Book," is available in a new edition.  Every chapter has been completely revised to reflect developments in software engineering, programming languages, and computer architecture that have occurred since 1986, when the last edition published.  The authors, recognizing that few readers will ever go on to construct a compiler, retain their focus on the broader set of problems faced in software design and software development.
+- "Samba De Orly" 7:09
+- "Pot Pourri De Jorge Ben" 5:56
+- "Ate Quem Sabe" 7:45
+- "Abre Alas" 7:44
+- "Fio Maravilha" 6:30
+- "A Cruz" 1:43
+- "Águas De Marco" 5:00
+- "Bedeu" 5:00
+- "Não Tem Perdão" 5:00
+- "Pot-pourri Via Brasil" 5:00

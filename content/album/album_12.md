@@ -1,15 +1,15 @@
 ---
-id: album_6
-title: Data Structures and Algorithms
-edition: 1st
-copyright: 1983
-language: ENGLISH
-pages: 448
-artista: Alfred V. Aho
-artistaId: artista_3
-discografica: Pearson Education
-discograficaId: discografica_2
-image: album/album_6.jpg
+id: album_12
+title: The Sermon
+copyright: Febrero de 1958
+duracion: 40:10 minutos
+artista: Jimmy Smith
+artistaId: artista_5
+discografica: Blue Note
+discograficaId: discografica_5
+image: album/album_12.jpg
 ---
 
-The authors' treatment of data structures in Data Structures and Algorithms is unified by an informal notion of "abstract data types," allowing readers to compare different implementations of the same concept. Algorithm design techniques are also stressed and basic algorithm analysis is covered. Most of the programs are written in Pascal.
+- "The Sermon" 20:12
+- "J.O.S." 11:56
+- "Flamingo" 8:02

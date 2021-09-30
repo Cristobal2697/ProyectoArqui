@@ -17,9 +17,10 @@
      </div>
      <div class="six columns">
        <h4>{{artista.name}}</h4>
-	   Nationality: {{artista.nationality}}; Born: {{artista.birth_year}}<br>
-	   Fields: {{artista.fields}}<br><br>
-	   <b>Biography</b><br>
+	    Nacionalidad: {{artista.nationality}}.<br>
+      Año Nacimiento: {{artista.birth_year}}<br>
+	    Estilos: {{artista.estilos}}<br><br>
+	    <b>Biografía</b><br><br>
 	    <nuxt-content :document="artista" />
 	 </div>
 	 <div class="three columns"></div>

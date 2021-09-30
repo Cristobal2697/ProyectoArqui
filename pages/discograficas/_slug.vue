@@ -17,9 +17,10 @@
      </div>
      <div class="six columns">
        <h4>{{discografica.name}}</h4>
-	   Country: {{discografica.country}}; Founded: {{discografica.founded}}<br>
-	   Genere: {{discografica.genere}}<br><br>
-	   <b>History</b><br>
+	   Fundación: {{discografica.founded}}<br>
+	   País: {{discografica.country}} <br><br>
+	   
+	   <b>Historia</b><br>
 	    <nuxt-content :document="discografica" />
 	 </div>
 	 <div class="three columns"></div>
@@ -29,6 +30,10 @@
 	       <NuxtLink :to="{ name: 'album-slug', params: { slug: a.slug } }">{{a.title}}</NuxtLink>
 	     </li>
 	   </ul>
+	   
+	   
+	   
+	   
    </div>
    <FooterView />
  </div>

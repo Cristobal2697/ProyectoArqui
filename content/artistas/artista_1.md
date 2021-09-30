@@ -1,12 +1,19 @@
 ---
 id: artista_1
-name: Abraham Silberschatz
-nationality: Israelis / American
-birth_year: 1952
-fields:
-  - Database Systems
-  - Data Structures
+name: Steely Dan
+nationality: Estadounidense
+birth_year: 1972
+estilos:
+  - Jazz
+  - Rock
+  - Rhythm and Blues (R&B)
 image: artistas/artista_1.jpg
 ---
 
-Avi Silberschatz (born in Haifa, Israel) is an Israeli computer scientist and researcher. He graduated in 1976 with a Ph.D. in Computer Science from the State University of New York (SUNY) at Stony Brook. He became the Sidney J. Weinberg Professor of Computer Science at Yale University, USA in 2005. He was the chair of the Computer Science department at Yale from 2005 to 2011. Prior to coming to Yale in 2003, he was the Vice President of the Information Sciences Research Center at Bell Labs. He previously held an endowed professorship at the University of Texas at Austin, where he taught until 1993. His research interests include database systems, operating systems, storage systems, and network management. Silberschatz was elected an ACM Fellow in 1996 and received the Karl V. Karlstrom Outstanding Educator Award in 1998.[1] He was elected an IEEE fellow in 2000 and received the IEEE IEEE Taylor L. Booth Education Award in 2002 for " teaching, mentoring, and writing influential textbooks in the operating systems and database systems areas". He was elected an AAAS fellow in 2009.[4] Silberschatz is a member of the Connecticut Academy of Science and Engineering.
+Steely Dan es un grupo estadounidense de rock formado en Nueva York en 1972 y cuya música incorpora elementos de jazz, rock, funk, rhythm and blues (R&B) y pop. Su núcleo central estuvo formado por Donald Fagen (n. 1948) y Walter Becker (1950-2017), ambos instrumentistas y compositores. El apogeo de popularidad del grupo tuvo lugar en los años 1970. Su música evolucionó para incorporar complejas estructuras de jazz y una gran habilidad musical. 
+
+El grupo realizó giras entre 1972 y 1974 pero en 1975 pasó a convertirse básicamente en un grupo de estudio. La banda fue famosa por utilizar músicos de sesión en sus grabaciones, como Michael McDonald, Steve Gadd, Larry Carlton, Don Grolnick, Anthony Jackson, Hiram Bullock, Mark Knopfler, Jeff Porcaro, David Paich, David Sanborn, Patti Austin, Lee Ritenour, Wayne Shorter, y otros. Steely Dan estuvo inactivo entre 1981 y 1992, después de que Becker y Fagen tomaran caminos diferentes, pero han vuelto a reunirse regresando en el año 2000 con el lanzamiento de Two Against Nature.
+
+La historia del grupo tiene tres etapas: en la primera, desde 1972 hasta 1974, el grupo era una banda convencional de rock que salía de gira y grababa; en la segunda, (1975-años 1980) el grupo se convirtió en un grupo puramente de estudio que continuó usando el nombre de Steely Dan, aunque se centraba básicamente en el equipo formado por Becker y Fagen, empleando a músicos de sesión en sus grabaciones. La tercera etapa del grupo es la vuelta por sorpresa de Becker y Fagen a la grabación y actuación en directo durante los años 1990, con la banda reconstituida considerada como uno de los grandes grupos de jazz-rock que actúa en directo de forma regular, habiendo lanzado varios aclamados álbumes en directo y en estudio. 
+
+El 3 de septiembre de 2017 murió Walter Becker. 

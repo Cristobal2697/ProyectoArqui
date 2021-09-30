@@ -1,12 +1,17 @@
 ---
-id: artista_1
-name: Abraham Silberschatz
-nationality: Israelis / American
-birth_year: 1952
-fields:
-  - Database Systems
-  - Data Structures
-image: artistas/artista_1.jpg
+id: artista_4
+name: Tania Maria 
+nationality: Brasileña
+birth_year: 1948
+estilos:
+  - Jazz
+  - Latin jazz
+  - Funk
+image: artistas/artista_4.jpg
 ---
 
-Avi Silberschatz (born in Haifa, Israel) is an Israeli computer scientist and researcher. He graduated in 1976 with a Ph.D. in Computer Science from the State University of New York (SUNY) at Stony Brook. He became the Sidney J. Weinberg Professor of Computer Science at Yale University, USA in 2005. He was the chair of the Computer Science department at Yale from 2005 to 2011. Prior to coming to Yale in 2003, he was the Vice President of the Information Sciences Research Center at Bell Labs. He previously held an endowed professorship at the University of Texas at Austin, where he taught until 1993. His research interests include database systems, operating systems, storage systems, and network management. Silberschatz was elected an ACM Fellow in 1996 and received the Karl V. Karlstrom Outstanding Educator Award in 1998.[1] He was elected an IEEE fellow in 2000 and received the IEEE IEEE Taylor L. Booth Education Award in 2002 for " teaching, mentoring, and writing influential textbooks in the operating systems and database systems areas". He was elected an AAAS fellow in 2009.[4] Silberschatz is a member of the Connecticut Academy of Science and Engineering.
+Nacida en una familia de músicos aficionados, en São Luís, una ciudad al Noroeste del Brasil, Tania Maria comenzó a estudiar piano a la edad de 7 años, y, con tan solo 13 años, ya había ganado el primer premio de un concurso musical local como líder de un grupo que había iniciado su padre. Tres años más tarde contrajo matrimonio y comenzó a estudiar Derecho, pero abandonaría sus estudios para grabar con 20 años su primer disco publicado por Warner, editado en Brasil en 1971 con el título Olha quem chega, y que mostraba ya su estilo característico, una combinación de los ritmos brasileños con las armonías del jazz, que la pianista desarrollaría posteriormente.
+
+A mediados de los años setenta, la artista abandonó Brasil para establecerse temporalmente en París, donde, tras registrar varios álbumes de moderado éxito, firmó un contrato con la empresa discográfica Concord y, en 1980 edita Piquant, un álbum que obtuvo el Golden Leonard Feather Award, un premio concedido personalmente por el famoso crítico.​ Desde entonces ha grabado más de 25 álbumes y recorrido virtualmente todos los grandes festivales de jazz del mundo.
+
+En 1985 la cantante recibió una nominación al Grammy en la categoría «Mejor actuación vocal mujer». Tania Maria residió en Nueva York y actualmente vive en París con su familia.

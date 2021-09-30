@@ -4,7 +4,7 @@ title: Meet Betty Carter and Ray Bryant
 copyright: Julio de 1955
 duracion: 57:27 minutos
 artista: Betty Carter
-artistaId: artista_3
+artistaId: artista_3       
 discografica: Columbia
 discograficaId: discografica_3
 image: album/album_4.jpg

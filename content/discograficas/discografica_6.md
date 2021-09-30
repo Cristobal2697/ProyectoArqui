@@ -1,13 +1,16 @@
 ---
-id: discografica_3
-name: Addison Wesley
-country: United States
-founded: 1942
-genere: 
-  - Computer Science
-image: discograficas/discografica_3.png
+id: discografica_6
+name: Sunny Side
+country: Estados Unidos
+founded: 1982
+image: discograficas/discografica_6.png
 ---
 
-Addison-Wesley is an American publisher of textbooks and computer literature. It is an imprint of Pearson PLC, a global publishing and education company. In addition to publishing books, Addison-Wesley also distributes its technical titles through the Safari Books Online e-reference service. Addison-Wesley's majority of sales derive from the United States (55%) and Europe (22%).[1]
+Francois Zalacain fundó la empresa después de una carrera en IBM. Conoció al pianista Harold Danko una noche en el Village Vanguard y se entabló una amistad. Cuando Danko tuvo la idea de hacer un disco a dúo con el bajista Rufus Reid, Zalacain alquiló el estudio Penthouse Recordings con vista al East River y grabó el álbum. Poco después grabó a Kirk Lightsey tocando el piano solo. Siguió un álbum de Lee Konitz, y sin quererlo, Zalacain había establecido un sello discográfico. Dos décadas después, cientos de CD componen el catálogo de Sunnyside.
 
-The Addison-Wesley Professional Imprint produces content including books, eBooks, and video for the professional IT worker including developers, programmers, managers, system administrators. Classic titles include The Art of Computer Programming, The C++ Programming Language, The Mythical Man-Month, and Design Patterns. Addison-Wesley Professional is also a partner with Safari Books Online.
+
+Sin contratos vinculantes, sin misión específica y con la aceptación de cualquier estilo de jazz, Sunnyside es un sello independiente relajado. Simplemente lanzan música que guste, desde un disco coqueto de boleros del cantante español Martirio, hasta un disco elocuente del pianista Laurent Coq.
+
+Si bien muchos de los propios artistas de Sunnyside traen influencias de sus países de origen a su música, la mayoría de ellos vive actualmente en Nueva York. 
+
+

@@ -96,10 +96,9 @@ export default {
           <div class="card-text">
             <h4 class="card-title"><strong> {{ a.title }} </strong></h4>
             <p class="card-description">
-			  <span>Artista: {{a.artista}}</span><br>
+              <span>Artista: {{a.artista}}</span><br>
               <span>Duración: {{a.duracion}}</span><br>
-			  <span>Publicación: {{a.copyright}}</span><br>
-              
+			        <span>Publicación: {{a.copyright}}</span><br>
             </p>
             <NuxtLink :to="{ name: 'album-slug', params: { slug: a.slug } }" class="button">
                 Detalles

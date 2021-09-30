@@ -12,8 +12,7 @@
 <template>
   <div class="container">
    <HeaderView />
-   <h3 style="margin-top: 15px">Artistas Information</h3>
-     <p>This section presents information about artistas</p>
+   <h3 style="margin-top: 15px">Artistas </h3>
    <ul class="ul">
      <li v-for="a of artistas" :key="a.slug">
        <div class="card">

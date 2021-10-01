@@ -1,5 +1,5 @@
 {
-  "name": "tutorial_5",
+  "name": "proyectoArqui",
   "scripts": {
     "dev": "nuxt",
     "build": "nuxt build",

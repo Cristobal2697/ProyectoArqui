@@ -15,7 +15,7 @@ collections:
       - {label: "Nationality", name: "nationality", widget: "string"}
       - {label: "Birth_year", name: "birth_year", widget: "number"}
       - {label: "Estilos", name: "estilos", widget: "select", multiple: true,
-         options: ["Jazz", "Rock", "Rhythm and Blues (R&B)","Post-bop" , "Latin jazz"
+         options: ["Jazz", "Rock", "Rhythm and Blues (R&B)","Post-bop" , "Latin jazz",
           "Rock and Roll", "Funk" , "Hard bop" , "Funky jazz" , "Pianista de Jazz" ,"Pop"]}
       - {label: "Image", name: "image", widget: "image",
            media_folder: '/static/images/authors'}

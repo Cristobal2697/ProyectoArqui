@@ -12,7 +12,7 @@ image: album/album_1.jpg
 
 - "Do It Again" 5:56
 - "Dirty Work" 3:08
-- "Kings" – 3:45
+- "Kings" 3:45
 - "Midnight Cruiser"  4:08
 - "Only a Fool Would Say That"  2:57
 - "Reelin' in the Years"  4:37

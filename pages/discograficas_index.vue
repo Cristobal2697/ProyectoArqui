@@ -106,7 +106,7 @@
 
 		
 			
-            <NuxtLink :to="{ name: 'discograficas-slug', params: { slug: a.slug } }" class="button">
+            <NuxtLink :to="{ name: 'discograficas-slug', params: { slug: a.slug } }" class="button boton">
                 Detalles
             </NuxtLink>
           </div>

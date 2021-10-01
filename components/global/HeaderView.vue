@@ -23,6 +23,17 @@
   color: black;
   font-size: 14pt;
 }
+.c a:hover {
+    background: #425d6a;
+    border-radius: 2px;
+	color: white;
+}
+
+.c a:active {
+  background: #425d6a;
+} 
+
+
 </style>
 
 <template>
